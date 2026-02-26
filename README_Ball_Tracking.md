@@ -270,21 +270,6 @@ This project demonstrates:
 
 ---
 
-## Portfolio Value
-
-This project highlights experience in:
-
-- Advanced computer vision (tracking, not just detection)  
-- Real-time deep learning systems  
-- Motion analysis and temporal modeling  
-
-Relevant for roles such as:
-- Computer Vision Engineer  
-- Machine Learning Engineer  
-- Video Analytics Engineer  
-- Sports Analytics AI  
-
----
 
 ## Author
 
