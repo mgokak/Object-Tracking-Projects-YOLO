@@ -267,21 +267,6 @@ This project demonstrates:
 
 ---
 
-## Portfolio Value
-
-This project highlights experience in:
-
-- Computer Vision  
-- Real-time inference systems  
-- Smart city and transportation AI applications  
-
-Relevant for roles such as:
-- Computer Vision Engineer  
-- Machine Learning Engineer  
-- AI Engineer  
-- Intelligent Transportation / Smart City AI roles  
-
----
 
 ## Author
 
